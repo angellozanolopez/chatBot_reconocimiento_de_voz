@@ -1,0 +1,56 @@
+{
+    "responses": [
+      {
+        "message": "Hola, ¿como estas? ¿En que puedo ayudarte? Preguntame lo que quieras.",
+        "keywords": ["tal", "hola", "saludos", "buenas"]
+      },
+      {
+        "message": "Adios. Si necesitas cualquier otra cosa, aqui me tienes",
+        "keywords": ["adios", "chao", "hasta luego", "nos vemos"]
+      },
+      {
+        "message": "Estoy bien, ¿y tú?",
+        "keywords": ["estas", "va", "vas", "sientes"],
+        "required_words": ["como"]
+      },
+      {
+        "message": "Nuestro periodo de garantia es de 12 meses en todos nuestros servicios",
+        "keywords": ["garantia", "garantizais", "satisfaccion", "cuanto tiempo", "cuanto dura", "dais", "periodo", "meses", "años", "soporte", "correccion", "errores", "posterior", "ofreceis"]
+      },      
+      {
+        "message": "Estamos ubicados en C/Aragon, 141 (Barcelona). Aunque tambien tenemos delegaciones en Madrid, Londres y Nueva York",
+        "keywords": ["ubicados", "direccion", "donde", "ubicacion", "cual", "vuestra"]
+      },
+      {
+        "message": "La puesta en marcha del servicio es superior a 6 meses.",
+        "keywords": ["plazo", "puesta", "en marcha", "tarda"]
+      },
+      {
+        "message": "Tenemos mas de 25 años de experiencia como desarrolladores de soluciones integrales de software inteligente totalmente a medida, logrando tasas de asertividad de hasta el 99,93%.",
+        "keywords": ["años", "experiencia", "empresa", "servicios", "ofrecen", "especialidad", "trabajos", "realizan", "dedicais", "dedica"]
+      },
+      {
+        "message": "Nuestro horario de atención es de lunes a viernes de 8:00 a 15:00h",
+        "keywords": ["horario", "atencion", "abierto", "abren"]
+      },
+      {
+        "message": "Puedes comunicarte con nosotros al número 123-456-789 o escribirnos a contacto@overstand.es",
+        "keywords": ["contacto", "comunicar", "contactar", "telefono", "email", "correo", "hablar"]
+      },
+      {
+        "message": "Aceptamos pagos en efectivo, tarjeta de crédito y transferencia bancaria.",
+        "keywords": ["pago", "formas", "aceptan", "pagar", "efectivo", "tarjeta", "transferencia"]
+      },            
+      {
+        "message": "La tarifa minima son 30 euros mensuales. Aunque los precios pueden variar según el tipo y la complejidad del proyecto. Puedes consultarnos para más detalles.",
+        "keywords": ["precio", "servicio", "precios", "costo", "valor", "tarifas", "presupuesto", "dinero"]
+      },
+            {
+        "message": "Podemos programar una visita para evaluar tus necesidades y planificar el proyecto.",
+        "keywords": ["visita", "evaluacion", "programar", "agenda", "veros", "vernos"]
+      }      
+    ]
+  }
+  
+  
+  
