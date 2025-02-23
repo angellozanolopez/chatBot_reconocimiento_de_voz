@@ -115,8 +115,7 @@ Dado que se priorizan tecnologías open source sin costos asociados, el uso de b
 
 ### 📹 Video y Demostración
 
-🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Código-red?logo=youtube&logoColor=white)](https://youtu.be/b-FszsXSLag)  
-<br>
+🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Código-red?logo=youtube&logoColor=white)](https://youtu.be/b-FszsXSLag)<br>
 🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Demostración-red?logo=youtube&logoColor=white)](https://youtu.be/K28Eb5GW18Q)
 
 📌 *Haz clic con el botón derecho encima del botón y selecciona "Abrir enlace en una nueva pestaña" para no salir del repositorio.*
