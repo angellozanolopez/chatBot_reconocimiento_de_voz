@@ -34,6 +34,57 @@ El chatbot puede desarrollarse con cualquier interfaz de ejecución, ya sea una 
 - **Precio del servicio** → 30€ mensuales
 - **Años de experiencia de la empresa** → Más de 25 años
 
+Formación en asistentes virtuales (chatbots)
+
+## Introducción
+
+La mayoría de empresas reciben centenares de consultas por parte de sus clientes. La mayoría (en algunos casos hasta el 80%) son siempre las mismas, y esto es un hecho. Los chatbots logran automatizar este tipo de consultas, dándoles respuesta de forma desatendida, lo cual reporta una reducción de costes para las empresas. Esto permitirá a las empresas dar soporte a más clientes sin necesariamente ampliar su plantilla de trabajadores, ¿genial, verdad?
+
+## Ejercicio
+
+El ejercicio consiste en la creación de un sistema de inteligencia artificial para dar respuesta a sus clientes de forma automatizada. Se creará un chatbot quien recibirá las preguntas por parte de los usuarios, y les dará las respuestas predefinidas que correspondan. En caso de incidencia o de no obtener la respuesta esperada, el usuario recibirá un mensaje conforme le atenderá un humano (y el ejercicio terminará aquí).
+
+Es importante destacar que la misma consulta puede realizarse de diferentes maneras, esto significa:
+
+- Faltas ortográficas
+- Uso de sinónimos o formas diferentes de pedir la información, ejemplo:
+  - ¿Cuántos meses de garantía dáis?
+  - ¿Cuánto dura la garantía?
+  - ¿Qué plazo de soporte y corrección de errores posterior ofrecéis?
+  - ...
+
+La respuesta debe ser lo más humana posible, evitando dar respuestas del estilo de "12 meses" sino más bien "Te confirmo que nuestro periodo de garantía es de 12 meses, aunque ¡estamos seguros de que el resultado será muy satisfactorio!".
+
+Para crear el chatbot, se partirá de las siguientes preguntas y respuestas (esquematizadas, siéntete libre de adornar las respuestas para hacerlas humanas):
+
+- **Plazo de garantía** → 12 meses
+- **Plazo de puesta en marcha del servicio** → 6 meses
+- **Precio del servicio** → 30€ mensuales
+- **Años de experiencia de la empresa** → Más de 25 años
+
+Puedes decidir cómo será la interfaz de ejecución del chatbot. No debe ser necesariamente una interfaz con un avatar que "hable", sino que puede ser por línea de comandos sin problema.
+
+Siéntete libre de usar la tecnología que te sea más cómoda, o incluso probar varias de ellas.
+
+## Entregable 1
+
+Repasa los entregables de este ejercicio para realizar el siguiente informe: análisis de tecnologías existentes y, si llevan coste asociado, pantallazo de dicho coste. Se dará prioridad a las tecnologías open source que no lleven costes asociados.
+
+En base a ello, se decidirá por la tecnología a usar y se procederá al desarrollo de la solución.
+
+## Entregable 2
+
+(en un único WeTransfer):
+1. Código fuente de la solución
+2. Video explicativo del código fuente (máximo 3 minutos)
+3. Video mostrando e interpretando los resultados (máximo 2 minutos)
+
+## Entregable 3
+
+Adaptar sistema speech-to-text para que el AV reciba un input de voz humana, y un sistema text-to-speech para que el AV dé respuesta con voz sintetizada lo más humana posible.
+
+Video demostrativo.
+
 ## SOLUCIÓN
 
 ### Entregable 1: Análisis de tecnologías y costos asociados
@@ -60,11 +111,13 @@ El desarrollo de un chatbot inteligente para responder consultas implica el uso 
 
 Dado que se priorizan tecnologías open source sin costos asociados, el uso de bibliotecas como `re`, `json`, `random`, `Levenshtein`, `speech_recognition` y `pyttsx3` es una elección sólida para desarrollar este chatbot inteligente.
 
-### Entregable 2
+### Entregables 2 y 3
 
-### 📹 Video y Demostración  
-🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Código-red?logo=youtube&logoColor=white)](https://youtu.be/b-FszsXSLag) <br>
-🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Demostración-red?logo=youtube&logoColor=white)](https://youtu.be/K28Eb5GW18Q)  
+### 📹 Video y Demostración
+
+🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Código-red?logo=youtube&logoColor=white)](https://youtu.be/b-FszsXSLag)
+
+🔹 [![Ver en YouTube](https://img.shields.io/badge/🎥%20Demostración-red?logo=youtube&logoColor=white)](https://youtu.be/K28Eb5GW18Q)
+
 📌 *Haz clic con el botón derecho encima del botón y selecciona "Abrir enlace en una nueva pestaña" para no salir del repositorio.*
-
 
